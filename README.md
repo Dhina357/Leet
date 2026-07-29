@@ -1,6 +1,6 @@
 # 🚀 LeetCode Solutions
 
-My personal repository for tracking progress, solutions, and notes for LeetCode algorithmic problems.
+My automated personal repository for tracking progress, solutions, and notes for LeetCode algorithmic problems.
 
 ## 📊 Progress Summary
 
@@ -15,15 +15,23 @@ My personal repository for tracking progress, solutions, and notes for LeetCode 
 
 ## 📁 Repository Structure
 
-The solutions are organized by difficulty and topic:
+All folders are generated and named sequentially by question number:
 
 ```text
-
+├── 0001-two-sum/
+│   ├── solution.py
+│   └── README.md
+├── 0002-add-two-numbers/
+│   └── solution.js
+├── 0015-3sum/
+│   └── solution.cpp
+└── 0704-binary-search/
+    └── solution.java
 ```
 
 ## 🤖 Automations
 
-This repository updates automatically using the [LeetSync](https://github.com) browser extension.
+This repository updates automatically using GitHub Actions and Repository Secrets. It executes a background sync workflow daily without using browser extensions.
 
 ## 📝 License
 
