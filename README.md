@@ -4,10 +4,10 @@ My personal repository for tracking progress, solutions, and notes for LeetCode 
 
 ## 📊 Progress Summary
 
-- **Total Solved:** 0
-- **🟢 Easy:** 0
-- **🟡 Medium:** 0
-- **🔴 Hard:** 0
+- **Total Solved:** 231
+- **🟢 Easy:** 118
+- **🟡 Medium:** 103
+- **🔴 Hard:** 10
 
 ## 🛠️ Languages Used
 
@@ -18,14 +18,7 @@ My personal repository for tracking progress, solutions, and notes for LeetCode 
 The solutions are organized by difficulty and topic:
 
 ```text
-├── 🟢 Easy/
-│   ├── 0001-two-sum/
-│   │   ├── solution.py
-│   │   └── README.md
-├── 🟡 Medium/
-│   ├── 0002-add-two-numbers/
-│   │   └── solution.py
-└── 🔴 Hard/
+
 ```
 
 ## 🤖 Automations
