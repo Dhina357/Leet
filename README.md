@@ -4,10 +4,10 @@ My automated personal repository for tracking progress, solutions, and notes for
 
 ## 📊 Progress Summary
 
-- **Total Solved:** 240
-- **🟢 Easy:** 125
-- **🟡 Medium:** 104
-- **🔴 Hard:** 11
+- **Total Solved:** 343
+- **🟢 Easy:** 156
+- **🟡 Medium:** 169
+- **🔴 Hard:** 18
 
 ## 🛠️ Languages Used
 
